@@ -84,11 +84,4 @@ Manthan Garg
 ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub!
-
-
 ---
-
-If you want next level 🔥:
-- I can add **badges (build, stars, license)**  
-- or make it **resume-ready (ATS optimized)**  
-- or include **screenshots section for GitHub** 🚀
