@@ -44,7 +44,7 @@ TaskManager1/
 ```bash
 git clone https://github.com/<your-username>/TaskManager1.git
 cd TaskManager1
-
+```
 2️⃣ Run the application
 On macOS / Linux:
 bash run.sh
